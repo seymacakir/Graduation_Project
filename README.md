@@ -4,9 +4,9 @@ The project aims to optimize interest rates for agricultural loan applicants by 
 
 ## Key Features & Methodology
 
-*Data Preparation:* Cleaning, handling missing values, feature selection. (data is not available because of confidentiality concerns.)
+**Data Preparation:** Cleaning, handling missing values, feature selection. (data is not available because of confidentiality concerns.)
 
-*Machine Learning Models:*
+**Machine Learning Models:**
 
 -Logistic Regression (baseline model).
 
@@ -14,7 +14,8 @@ The project aims to optimize interest rates for agricultural loan applicants by 
 
 -Model-Based Tree for adaptive segmentation.
 
-*Pricing Strategies:*
+**Pricing Strategies:**
+
 -Dynamic Pricing with Milestones (adjusts pricing based on targets).
 
 -Aggressive Pricing (higher price, lower acceptance).
@@ -23,7 +24,7 @@ The project aims to optimize interest rates for agricultural loan applicants by 
 
 -Controlled Variance Pricing (randomized within historical ranges).
 
-*Evaluation & Simulation:* Performance analysis through simulations.
+**Evaluation & Simulation:** Performance analysis through simulations.
 
 
 ## Contributors
